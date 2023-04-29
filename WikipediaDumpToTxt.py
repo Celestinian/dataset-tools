@@ -1,7 +1,7 @@
 import bz2
 import re
 
-input_file = r"C:\Users\zehmi\Downloads\enwiki-20230401-pages-articles-multistream.xml.bz2"
+input_file = r"C:\Path\To\File\enwiki-20230401-pages-articles-multistream.xml.bz2"
 output_file = r"./Wikipedia.txt"
 max_line_length = 350
 
